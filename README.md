@@ -1,8 +1,9 @@
-# Modbus-Allocation, v1.00
+# Modbus-Allocation, v1.01
 This is an automated excel modbus allocation sheet I made for managing allocations when working with a PanelView PV800 and Micro800 PLC.
 
 ## Version Summary:
 * v1.00: Original Release
+* v1.01: Code speed execution improved, automatic list generation added.
 
 ## Instructions:
 1. Download sheet.
