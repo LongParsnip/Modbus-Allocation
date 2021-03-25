@@ -10,7 +10,7 @@ This is an automated excel modbus allocation sheet I made for managing allocatio
 2. Ensure macros are enabled.
 3. I have left my last project prefilled as a guide, press the 'Clear Register' button to clear the register.
 4. Enter your Variable names in the 'Var Name' column, select the data table they belong to and if the register width is not 1 (for REAL types) then enter 2 as the register width.
-5. Click on the 'Update Lists' button to populate the allocation tables and return the allocated modbus address for each variable.
+5. Modbus register list will update as you go.
 
 
 
